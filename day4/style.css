@@ -1,0 +1,26 @@
+.jumbotron {
+	padding-top: 2rem;
+	background-color: #F5F5DC;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#About{
+	background-color: #FFE4C4;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#projects{
+	background-color: #F5F5DC;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#contact{
+	background-color: #FFE4C4;
+	font-family: 'Libre Baskerville', serif;
+}
+
+footer{
+	background-color: #F5F5DC;
+	font-family: 'Libre Baskerville', serif;
+}
+
